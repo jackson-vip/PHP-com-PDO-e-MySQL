@@ -1,2 +1,2 @@
 # PHP-com-PDO-e-MySQL
-Projeto Udemy
+Projeto didático desenvolvido pelo Professor/Programador: Jorge Sant Ana.  - Udemy - 
